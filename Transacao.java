@@ -45,7 +45,7 @@ public abstract class Transacao {
 
     @Override
     public String toString() {
-        return String.format("\"Id transação: %d | Valor: R$ %.2f | Status: %s \n"
-                + id, valor, status);
+        return String.format("Id transação: %d | Valor: R$ %.2f | Status: %s",
+                id, valor, status);
     }
 }
