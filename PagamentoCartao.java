@@ -19,7 +19,7 @@ public class PagamentoCartao extends Transacao {
 
     @Override
     public void processarPagamento() {
-        System.out.println("Pagamento de R$" + getValor() + " Cartão final " + numero.substring(numero.length()-4));
+        System.out.println("Pagamento de R$" + getValor() + " no Cartão final " + numero.substring(numero.length()-4));
         this.setStatus(StatusTransacao.APROVADO);
     }
 }
