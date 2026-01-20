@@ -3,9 +3,8 @@
 > Sistema de processamento de transações financeiras para praticar POO e Generics em Java. 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen? style=for-the-badge)
-![POO](https://img.shields.io/badge/Conceito-POO-green? style=for-the-badge)
-![Generics](https://img.shields.io/badge/Generics-Java-orange?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+![POO](https://img.shields.io/badge/Conceito-POO-green?style=for-the-badge)
 
 ---
 ---
