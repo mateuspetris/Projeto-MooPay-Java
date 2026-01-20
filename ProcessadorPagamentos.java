@@ -53,7 +53,7 @@ public class ProcessadorPagamentos<T extends Transacao>{
 
     @Override
     public String toString(){
-        return "Processador de Pagamentos: " + transacoes.size() + " transações cadastradas, Valor Total: R$ " + calcularValorTotal();
+        return "Processador de Pagamentos | " + transacoes.size() + " transações cadastradas | Valor Total: R$" + calcularValorTotal();
      }
 
 
