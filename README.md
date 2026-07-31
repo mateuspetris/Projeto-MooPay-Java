@@ -1,21 +1,17 @@
-#  Moo Pay
-
 > Sistema simples de processamento de transações financeiras desenvolvido para praticar conceitos de Programação Orientada a Objetos em Java.
 
----
 
 ## Sobre o Projeto
 
-O **Moo Pay** é um sistema de pagamentos que simula o processamento de transações via **PIX** e **Cartão de Crédito**. 
+É um sistema de pagamentos que simula o processamento de transações via **PIX** e **Cartão de Crédito**. 
 
 Este projeto foi criado como exercício prático para aplicar conceitos fundamentais de POO (Programação Orientada a Objetos) aprendidos durante estudos de Java.
 
 ---
 
-## 🏗️ Arquitetura do Sistema
+##  Arquitetura do Sistema
 
 ```
-Moo Pay
 │
 ├── Transacao (abstract)
 │   ├── id:  int
